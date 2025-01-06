@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "autoprefixer": "10.4.20",
     "eslint": "9.17.0",
     "eslint-config-next": "15.1.3",
